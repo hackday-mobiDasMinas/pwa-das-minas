@@ -1,0 +1,21 @@
+{
+  "name": "pwa-das-minas",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.0.1",
+    "babel-plugin-styled-components": "^1.6.0",
+    "google-map-react": "^1.0.6",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-google-maps": "^9.4.5",
+    "react-router": "^3.0.5",
+    "react-scripts": "1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

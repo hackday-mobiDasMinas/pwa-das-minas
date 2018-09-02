@@ -1,0 +1,6 @@
+.dashboard {
+    margin: 24px;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
